@@ -1,3 +1,9 @@
+## PWA Tetris 2 Update
+
+New fork to inherit fixed security vulnerabilites. Next step: turn into a PWA
+
+----
+
 ### English introduction
 Please view [README.md](https://github.com/Binaryify/vue-tetris/blob/master/README-EN.md)
 
